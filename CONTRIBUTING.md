@@ -7,7 +7,7 @@ similar conventions to the upstream project.
 ## Reporting issues
 
 - Search existing issues before opening a new one.
-- Include: Node.js version, `@poucode/baileys` version, a minimal reproduction,
+- Include: Node.js version, `@SakataOffcReal/baileys` version, a minimal reproduction,
   and the relevant log output (with sensitive data like phone numbers redacted).
 
 ## Submitting changes
