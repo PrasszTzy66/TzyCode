@@ -1,6 +1,6 @@
 # Contributing to PouCode
 
-Thanks for your interest in contributing! PouCode is a fork of
+Thanks for your interest in contributing! Sakata is a fork of
 [Baileys](https://github.com/WhiskeySockets/Baileys); contributions here follow
 similar conventions to the upstream project.
 
